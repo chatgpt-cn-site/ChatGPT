@@ -1,6 +1,6 @@
 # ChatGPT 中文版镜像站合集：支持GPT-4/4o、DeepSeek R1、Grok-3、Claude3.7，国内直连！
 
-> **更新时间： 2025/03/06**  
+> **更新时间： 2025/03/07**  
 > **ChatGPT 中文版&ChatGPT 镜像网站推荐**
 
 想在国内直接使用 **ChatGPT 中文版**？本指南汇总了可直连的 ChatGPT 中文镜像站，支持 GPT-4、GPT-4o、DeepSeek R1、Grok-3，无需翻墙，即开即用！快速上手 **ChatGPT 中文版**，提升工作效率！
