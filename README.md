@@ -1,7 +1,6 @@
-# ChatGPT 中文版：国内镜像网站整理合集(支持GPT-4，无需翻墙)
+# ChatGPT 中文版：国内无限制使用入口（支持 GPT-4、GPT-4o、GPT-o1 和 GPT-o3，无需翻墙）【2025最新更新】
 
 > **更新时间： 2025/03/09**  
-> **ChatGPT 中文版&ChatGPT 镜像网站推荐**
 
 想在国内直接使用 **ChatGPT 中文版**？本指南汇总了可直连的 ChatGPT 中文镜像站，支持 GPT-4、GPT-4o、DeepSeek R1、Grok-3，无需翻墙，即开即用！快速上手 **ChatGPT 中文版**，提升工作效率！
 
