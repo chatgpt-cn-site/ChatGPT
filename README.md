@@ -1,13 +1,13 @@
 # ChatGPT 中文版：国内无限制使用入口（支持 GPT-4、GPT-4o、GPT-o1 和 GPT-o3，无需翻墙）【2025最新更新】
 
-> **更新时间： 2025/04/03**  
+> **更新时间： 2025/04/04**  
 
 想在国内直接使用 **ChatGPT 中文版**？本指南汇总了可直连的 ChatGPT 中文镜像站，支持 GPT-4、GPT-4o、DeepSeek R1、Grok-3，无需翻墙，即开即用！快速上手 **ChatGPT 中文版**，提升工作效率！
 
 本项目旨在为用户提供一站式 **ChatGPT 中文版使用指南**，同时整理了国内可用的 **ChatGPT 中文版镜像** 和 **AI 相关教程**，帮助您快速上手 ChatGPT，无论是个人使用还是专业探索。
 
 
-ChatGPT 中文版：[gptcat.net](https://gptcat.net)   
+ChatGPT 中文版：[gptcat.cc](https://gptcat.cc)   
 ChatGPT 镜像网站：[snakegpt.work](https://snakegpt.work)
 
 ---
@@ -44,8 +44,8 @@ ChatGPT 镜像网站：[snakegpt.work](https://snakegpt.work)
 | **镜像站地址**       | **支持版本**         | **免费额度** | **注册方式**         | **稳定性** | **功能亮点**                                  |
 |----------------------|---------------------|--------------|---------------------|------------|---------------------------------------------|
 | [snakegpt.work](https://snakegpt.work)   | GPT-4, GPT-3.5，deepseek-r1，GPT-o3 | 有              | 国内邮箱支持        | ⭐⭐⭐⭐⭐    | 运营时长两年，支持 GPT-4o，内置 MJ 绘图，适合开发者与普通用户 |
-| [gptcat.net](https://gptcat.net)         | GPT-4, GPT-o1, Claude, deepseek-r1,GPT-o3  | 有              | 国内邮箱支持        | ⭐⭐⭐⭐⭐    | 支持GPT-o1模型，一比一还原官网，可以使用实时语音对话，视频对话         |
-| [https://chat.gptcat.net/](https://chat.gptcat.net/) | GPT-4, GPT-3.5 | 有              | 国内邮箱支持        | ⭐⭐⭐⭐     | 支持开发者 API，提供长时间服务                 |
+| [gptcat.cc](https://gptcat.cc)         | GPT-4, GPT-o1, Claude, deepseek-r1,GPT-o3  | 有              | 国内邮箱支持        | ⭐⭐⭐⭐⭐    | 支持GPT-o1模型，一比一还原官网，可以使用实时语音对话，视频对话         |
+| [https://chat.gptcat.cc/](https://chat.gptcat.cc/) | GPT-4, GPT-3.5 | 有              | 国内邮箱支持        | ⭐⭐⭐⭐     | 支持开发者 API，提供长时间服务                 |
 | [gptdog.online](https://gptdog.online)   | GPT-3.5        | 有              | 国内邮箱支持        | ⭐⭐⭐      | 使用简单，适合基础聊天用途                     |
 
 ---
